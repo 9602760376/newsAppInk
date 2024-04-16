@@ -1,0 +1,39 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.backgroudimage{
+    background-image: url(../../assets/images/yousef-espanioly-zirEBF7OnKQ-unsplash.jpg);
+    height: 50vh;
+    width: 40%;
+    justify-content: center;
+    margin-top: 30vh;
+    margin-left: 30vh;
+    text-align: center;
+    display: flex;
+
+}
+.cord{
+    margin-top: 100vh;
+    width: 40%;
+    background-color: aquamarine;
+    padding-right: 100px;
+    float: right;
+    margin-top: -50vh;
+    margin-right: 9vh;
+    height: 50vh;
+    padding: right 10vh; 
+    justify-content: center;
+    padding:10vh  ;
+
+    
+}
+.cord form input{
+width: 100%;
+}
+/* .cord form  button{
+    width: 100%;
+}
+.container button{
+
+} */
